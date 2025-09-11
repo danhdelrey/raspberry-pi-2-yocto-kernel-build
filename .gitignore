@@ -1,0 +1,5 @@
+# Bỏ qua các file build tạm thời
+*.o
+*.ko
+*.dtb
+zImage
